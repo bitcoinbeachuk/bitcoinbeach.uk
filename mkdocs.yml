@@ -1,0 +1,7 @@
+site_name: Bitcoin Beach UK
+theme:
+  name: material
+  palette:
+    primary: orange
+nav:
+  - Home: index.md
